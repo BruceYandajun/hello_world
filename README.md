@@ -1,5 +1,5 @@
 # hello_world
-Just another repositoy
+Just a hello-world repositoy
 
 Hello everyone 
 I'll changed this file for testing Github's committing.
