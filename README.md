@@ -8,3 +8,4 @@ I'll changed this file for testing Github's committing.
 - feature A
 - fix-B
 - feature-C
+new
