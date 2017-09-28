@@ -10,3 +10,5 @@ I'll changed this file for testing Github's committing.
 - feature-C
 
 - new
+
+- add
